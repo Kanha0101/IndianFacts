@@ -1,0 +1,26 @@
+.heading {
+    color: gold;
+    text-align: center;
+    font-family: cursive;
+}
+
+.para {
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+               1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}
+
+body {
+    background-image: url(/Img.jpg);
+    background-size: cover;
+}
+
+img {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7%;
+}
